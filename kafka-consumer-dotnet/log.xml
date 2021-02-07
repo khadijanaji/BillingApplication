@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-02-08T00:15:46</date>
+  <millis>1612739746971</millis>
+  <sequence>0</sequence>
+  <logger>kafkadotnetconsumer.demo.KafkaConsumer</logger>
+  <level>INFO</level>
+  <class>kafkadotnetconsumer.demo.KafkaConsumer</class>
+  <method>onMessage</method>
+  <thread>24</thread>
+  <message>Add customer : {"CostumerID":5,"Name":"mohammed","Email":"mohamed@gmail.com"}</message>
+</record>
+<record>
+  <date>2021-02-08T00:17:31</date>
+  <millis>1612739851171</millis>
+  <sequence>1</sequence>
+  <logger>kafkadotnetconsumer.demo.KafkaConsumer</logger>
+  <level>INFO</level>
+  <class>kafkadotnetconsumer.demo.KafkaConsumer</class>
+  <method>onMessage</method>
+  <thread>24</thread>
+  <message>Add customer : {"CostumerID":6,"Name":"khadija123","Email":"mohamed@gmail.com"}</message>
+</record>
+<record>
+  <date>2021-02-08T00:20:51</date>
+  <millis>1612740051885</millis>
+  <sequence>2</sequence>
+  <logger>kafkadotnetconsumer.demo.KafkaConsumer</logger>
+  <level>INFO</level>
+  <class>kafkadotnetconsumer.demo.KafkaConsumer</class>
+  <method>onMessage</method>
+  <thread>24</thread>
+  <message>Add category : {"CategoryID":4,"Name":"hawei","Products":null}</message>
+</record>
+<record>
+  <date>2021-02-08T00:24:29</date>
+  <millis>1612740269116</millis>
+  <sequence>3</sequence>
+  <logger>kafkadotnetconsumer.demo.KafkaConsumer</logger>
+  <level>INFO</level>
+  <class>kafkadotnetconsumer.demo.KafkaConsumer</class>
+  <method>onMessage</method>
+  <thread>24</thread>
+  <message>Update category from {"CategoryID":1,"Name":"Ordinateur","Products":null} to {"CategoryID":1,"Name":"Ordinateur","Products":null}</message>
+</record>
